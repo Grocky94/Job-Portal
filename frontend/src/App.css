@@ -1,0 +1,17 @@
+.form_style {
+  position: relative;
+  outline: 0px;
+  margin: auto;
+  display: flex;
+  -webkit-box-pack: "center";
+  justify-content: center;
+  padding: 24px;
+  background-color: rgb(255, 255, 255);
+  border:  1px solid rgb(231, 235, 240);
+  width: 35%;
+}
+.border_style{
+  border-radius: 10px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
